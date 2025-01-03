@@ -24,8 +24,7 @@ I specialize in crafting modern, responsive, and visually appealing websites. Wi
 
 ## 🌟 **Dynamic Widgets**  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithLordDEv&theme=react-dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithLordDEv&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWithLordDEv&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithLordDEv&layout=compact&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWithLordDEv&theme=radical)  
 
 ## 🌱 **Currently Exploring**  
 - Advanced **JavaScript frameworks** for better performance.  
@@ -33,7 +32,7 @@ I specialize in crafting modern, responsive, and visually appealing websites. Wi
 
 ## 📫 **Let’s Connect!**  
 - **Portfolio**: [My Portfolio](https://blog-ten-blond-41.vercel.app/)  
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ayush-temkar/)  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ayush-temkar-03b26a28a/)  
 - **Email**: [ayushtemkar9@gmail.com](mailto:ayushtemkar9@gmail.com)  
 
 ---
