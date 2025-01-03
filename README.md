@@ -23,8 +23,8 @@ I specialize in crafting modern, responsive, and visually appealing websites. Wi
 - **Community Components**: Free-to-use Tailwind CSS components for developers.  
 
 ## 🌟 **Dynamic Widgets**  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithLordDEv&theme=react-dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithLordDEv&layout=compact&theme=radical)  ![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWithLordDEv&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithLordDEv&layout=compact&theme=radical)
 
 ## 🌱 **Currently Exploring**  
 - Advanced **JavaScript frameworks** for better performance.  
