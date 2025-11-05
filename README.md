@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ayush Rajesh Temkar aka (CodeWithLordDev)
+# Hi there 👋, I'm Ayush aka (CodeWithLordDev)
 
 🚀 **Front-End Developer | IT Undergraduate | Passionate Web Creator**  
 
